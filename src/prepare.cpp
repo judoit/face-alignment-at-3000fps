@@ -1,3 +1,4 @@
+＃给人脸标记上人脸框，并输出人脸图像存储路径和人脸框位置
 #include <cstdio>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/objdetect/objdetect.hpp>
